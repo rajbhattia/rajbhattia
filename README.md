@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rajbhattia
 - 👀 I’m interested in flutter full-stack development
 - 🌱 I’m currently learning Flutter
-- 💞️ I’m looking to collaborate on Mini Projects
+- 💞️ I’m looking to collaborate on flutter Projects
 - 📫 .
 
 <!---
